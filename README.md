@@ -1,0 +1,1 @@
+Solved challenges of HackerRank
